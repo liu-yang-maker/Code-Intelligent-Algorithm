@@ -1,2 +1,2 @@
-# Code-Intelligent_Algrithm
-Code-Intelligent_Algrithm
+# Code-Intelligent-Algorithm
+Code-Intelligent-Algorithm
